@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Offline Caching</string>
+    <string name="back">Back</string>
+    <string name="countryCode">Country Code : </string>
+    <string name="timeZone">TimeZone : </string>
+    <string name="cityName">CityName : </string>
+    <string name="details">Details</string>
+    <string name="view_more">View More</string>
+    <string name="no_network">Check your network connection</string>
+</resources>
